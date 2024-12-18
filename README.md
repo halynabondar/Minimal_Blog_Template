@@ -14,7 +14,8 @@
 
 <ul>
   <li>HTML5: For creating the structure and content of the website.</li>
-  <li>CSS3: For styling, animations, and layout control.</li>
+  <li>CSS3: For styling and layout control.</li>
+  <li>Swiper.js For animations.</li>
 </ul>
 
 ## 🌟 Key Features
@@ -31,3 +32,8 @@
 </li>
   <li>Open the "index.html" file in your browser.</li>
 </ol>
+
+## Screenshots
+
+<img src="img/screencapture1.png" alt="screenshot">
+<img src="img/screencapture2.png" alt="screenshot">
