@@ -1,5 +1,3 @@
-# Minimal_Blog_Template
-
 # 📄 Project Description
 
 <p>This project is a responsive and accessible website built using HTML and CSS. It demonstrates best practices in web development, focusing on:</p>
